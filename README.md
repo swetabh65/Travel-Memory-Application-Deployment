@@ -86,22 +86,21 @@ sudo apt install nginx
 
 
 ✅ Build Production Version:
- 
+ ![image](https://github.com/user-attachments/assets/afc42e67-7106-4dea-bf6e-7701f5e95abe)
 
 
 ✅ Serve Frontend with PM2:
-
+ ![image](https://github.com/user-attachments/assets/c36859e6-a3a9-4661-b9e1-d67cc76a4eb8)
 
 
 *********************************************************************************************************************************************************************
 # Nginx Configuration
 
 ✅ Configure Nginx as a Reverse Proxy:
-
-
+ 
 
 ✅ Enable Configuration:
-
+ 
 
 *********************************************************************************************************************************************************************
 # Load Balancer Setup
