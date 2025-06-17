@@ -90,8 +90,7 @@ sudo apt install nginx
 
 
 ✅ Serve Frontend with PM2:
- ![image](https://github.com/user-attachments/assets/c36859e6-a3a9-4661-b9e1-d67cc76a4eb8)
-
+ 
 
 *********************************************************************************************************************************************************************
 # Nginx Configuration
