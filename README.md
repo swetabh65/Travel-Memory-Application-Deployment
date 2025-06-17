@@ -112,6 +112,7 @@ sudo apt install nginx
 ✅ Create Application Load Balancer:
 
 
+
 ✅ Update Nginx Configuration:
 
 
