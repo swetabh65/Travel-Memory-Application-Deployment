@@ -101,10 +101,15 @@ sudo apt install nginx
 # Nginx Configuration
 
 ✅ Configure Nginx as a Reverse Proxy:
- 
+ ![image](https://github.com/user-attachments/assets/3ac5b95b-3684-419b-889d-052485fa6aa2)
+
+
 
 ✅ Enable Configuration:
- 
+ ![image](https://github.com/user-attachments/assets/33e029e3-58a3-4a4c-a7e6-0f297aacbcfb)
+
+ ![image](https://github.com/user-attachments/assets/c6215501-2476-4788-a48b-703c3b6a0b73)
+
 
 *********************************************************************************************************************************************************************
 # Load Balancer Setup
