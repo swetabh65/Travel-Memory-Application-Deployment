@@ -86,7 +86,7 @@ sudo apt install nginx
 
 
 ✅ Build Production Version:
- ![image](https://github.com/user-attachments/assets/afc42e67-7106-4dea-bf6e-7701f5e95abe)
+
 
 
 ✅ Serve Frontend with PM2:
