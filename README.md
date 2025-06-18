@@ -115,40 +115,43 @@ sudo apt install nginx
 # Load Balancer Setup
 
 ✅ Create Additional EC2 Instances:
-
+ Created 2 EC2 istances with same configurations
 
 ✅ Create Application Load Balancer:
-
+ Created a new load balancer with the newly created target group
 
 
 ✅ Update Nginx Configuration:
-
+ Updated Nginx configurations
 
 
 *********************************************************************************************************************************************************************
 
 # Domain Configuration with Cloudflare
 
-✅ Add Domain to Cloudflare: 
-
-
-✅ Configure DNS Records:
+✅ Add Domain to Cloudflare & Configure DNS Records:: 
+ ![image](https://github.com/user-attachments/assets/69ba075f-6384-46c9-89dd-8c56f778d3cd)
 
 
 ✅ SSL Configuration:
-
+ Updated
 
 *********************************************************************************************************************************************************************
 # Verification
 
 ✅ Check Application Status:
-
-
-✅ Test Endpoints:
+ ![image](https://github.com/user-attachments/assets/3e80927d-4017-4761-a32b-fcf81be96544)
 
 
 ✅ Access Application:
 
+http://swetabhsonal.com
+
+http://172-31-42-250:
+
+http://swetabh-tmad-alb-824108635.us-west-2.elb.amazonaws.com
+
+ ![image](https://github.com/user-attachments/assets/45efca0a-60f3-43a8-9f7c-ac87b754d717)
 
 *********************************************************************************************************************************************************************
 
